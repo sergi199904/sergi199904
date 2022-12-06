@@ -14,6 +14,3 @@ Habilidades: HTML / CSS/JS / REACT / BOOTSTRAP/ NPM / GIT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sergi199904)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sergio-oyarzo-414652130//)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/sergi199904)](https://github.com/anuraghazra/github-readme-stats)
-
-
