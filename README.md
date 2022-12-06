@@ -5,9 +5,8 @@ Intereses por la Tecnología Informática/Desarrollo Web. Actualmente estudiando
 En 2023 comenzare a estudiar la carrera Analista Programador en Ciisa.
 
 
-Habilidades: HTML / CSS/JS / REACT / BOOTSTRAP/ NPM / GIT
+Habilidades: HTML / CSS/ JS / REACT / BOOTSTRAP/ NPM / GIT
 
-- 🔭 Estoy trabajando en en projectos del Bootcamp Desafio Latam. 
 - 🌱 Estoy aprendiendo React 
 - 😄 Pronombres: Sergi 
 
