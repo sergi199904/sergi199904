@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Yo soy Sergio Oyarzo</h1>
 <h3 align="center">Front End Developer Trainee</h3>
 
-<p>💬 Intereses por la Tecnología Informática/Desarrollo Web. Actualmente estudiando en Bootcamp de programación Full Stack JavaScript con el fin de potenciar mi carrera profesional. </p>
+<p>💬🤖💻⌨️🖱 Hoy en día, me sigo siento fascinado por la tecnología y me encanta seguir aprendiendo y descubriendo nuevas formas de usarlas. Me gusta pensar que gracias a mi interés en las computadoras desde niño, he sido capaz de desarrollar habilidades valiosas y tener éxito en mi carrera.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
