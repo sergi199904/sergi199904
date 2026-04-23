@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Yo soy Sergio Oyarzo</h1>
-<h3 align="center">Software Developer Trainee</h3>
+<h3 align="center"></h3>
 
 <p>💬🤖💻⌨️🖱 Hoy en día, me sigo sintiendo fascinado por la tecnología y me encanta seguir aprendiendo y descubriendo nuevas formas de usarla. Me gusta pensar que gracias a mi interés y dedicación puedo aportar soluciones innovadoras y eficientes a los desafíos que se presentan.</p>
 
